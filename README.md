@@ -1,11 +1,23 @@
 # nlp-projectProposal
 
-## THE WORLD-FAMOUS AUTHORS AND THEIR TABLES
+## Article Categorization
 
-## PROPOSAL
-The purpose of this project is to introduce to the world-famous authors with their tables and classificate them.
-   Firstly,I should list the world-famous authors.Then I will find out their biography and their the most famous tables.And then I should categorize and bind under the tables.
-After I will find out suitable codes for this project on the internet.In this respect, Java Codes are very important.
-   Secondly, I should creat interface and  a browser engine for research.It will be very visual.At that time deficiencies should be corrected.
-   Finally,after we will control this project once again,we can finish this project.
+## Description
+The project will categorize all articles by authers according to in the words of the articles.
+
+
+## Proposal
+I will upload database used words in article frequently and words indicating what type of article is written.
+When people put into the program created any article, by examining the words in the program will determine which
+types of articles written.And the program will be based on Java.For instance ; if the article has got words of gowernment
+and opposition, it will be categorized as political article and if the article has got football or any sports term , it will
+be categorized as sports article.
+
+
+## Steps
+Find out that certain species in the main article words.
+
+Create a database with these words.(By Categorizing).
+
+Program to test by pulling a few words from the Web. 
 
